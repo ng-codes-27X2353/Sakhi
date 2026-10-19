@@ -1,0 +1,8 @@
+{
+  "name": "LifeGuard - Emergency Medical ID & Alert",
+  "description": "Universal Personal Medical ID, emergency contacts, vital health stats, and 5-tap PIN-protected safety alarm system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
