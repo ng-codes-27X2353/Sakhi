@@ -1,0 +1,108 @@
+{
+  "managerPasscode": "sakhi2026",
+  "managerDesignated": true,
+  "managerName": "Administrator (9149389480)",
+  "alerts": [
+    {
+      "id": "alt_1792937153124_59",
+      "idNo": 86050,
+      "fullName": "Akarsh",
+      "dob": "2002-05-14",
+      "mobile": "+91 98765 43210",
+      "email": "akarsh.sakhi@gmail.com",
+      "pin": "1234",
+      "bloodGroup": "O+",
+      "height": "178 cm",
+      "weight": "72 kg",
+      "allergy": "Penicillin, Dust",
+      "location": {
+        "latitude": 23.2067,
+        "longitude": 77.4567,
+        "accuracy": 5,
+        "mapsUrl": "https://www.google.com/maps?q=23.2067,77.4567",
+        "address": "Live Coordinates: 23.2067° N, 77.4567° E"
+      },
+      "timestamp": "2026-10-25T14:05:53.124Z",
+      "status": "active",
+      "case": "New SOS alert triggered. Location locked; awaiting manager dispatch.",
+      "visibility": {
+        "isPublished": true,
+        "showName": false,
+        "showMobile": false,
+        "showBloodGroup": false,
+        "showMedicalDetails": false,
+        "showLocation": true,
+        "showCase": false
+      },
+      "roughLocation": "Bhopal, Madhya Pradesh, India"
+    },
+    {
+      "id": "alt_1792937074361_922",
+      "idNo": 68421,
+      "fullName": "Meera Patel",
+      "dob": "1998-11-20",
+      "mobile": "+91 98111 22233",
+      "email": "meera@sakhi.org",
+      "pin": "5678",
+      "bloodGroup": "B+",
+      "height": "162 cm",
+      "weight": "54 kg",
+      "allergy": "Sulfa drugs",
+      "location": {
+        "latitude": 28.6139,
+        "longitude": 77.209,
+        "accuracy": 4,
+        "mapsUrl": "https://www.google.com/maps?q=28.6139,77.209",
+        "address": "Connaught Place Safety Zone, New Delhi"
+      },
+      "timestamp": "2026-10-25T14:04:34.361Z",
+      "status": "resolved",
+      "case": "Case #SK-202: PCR Van 12 arrived at scene. User accompanied safely. Mobile and location hidden for user privacy.",
+      "visibility": {
+        "isPublished": true,
+        "showName": false,
+        "showMobile": false,
+        "showBloodGroup": false,
+        "showMedicalDetails": false,
+        "showLocation": true,
+        "showCase": false
+      },
+      "roughLocation": "Bhopal, Madhya Pradesh, India"
+    },
+    {
+      "id": "alt_seed_101",
+      "idNo": 39054,
+      "fullName": "Akarsh",
+      "dob": "2002-05-14",
+      "mobile": "+91 98765 43210",
+      "email": "akarsh.sakhi@gmail.com",
+      "pin": "1234",
+      "bloodGroup": "O+",
+      "height": "178 cm",
+      "weight": "72 kg",
+      "allergy": "Penicillin, Dust",
+      "location": {
+        "latitude": 23.2067,
+        "longitude": 77.4567,
+        "accuracy": 5,
+        "mapsUrl": "https://www.google.com/maps?q=23.2067,77.4567",
+        "address": "Bhopal Central Safety Corridor, MP"
+      },
+      "timestamp": "2026-10-25T13:49:04.454Z",
+      "status": "dispatched",
+      "case": "Case #SK-101: Emergency alert received from Sakhi ring. Police Unit 4 dispatched; hospital notified of Penicillin allergy.",
+      "visibility": {
+        "isPublished": true,
+        "showName": false,
+        "showMobile": false,
+        "showBloodGroup": false,
+        "showMedicalDetails": false,
+        "showLocation": true,
+        "showCase": false
+      },
+      "roughLocation": "Bhopal, Madhya Pradesh, India"
+    }
+  ],
+  "adminPhone": "9149389480",
+  "adminPasscode": "agaj27x2"
+}
